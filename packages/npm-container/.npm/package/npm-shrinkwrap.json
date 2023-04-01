@@ -1,9 +1,10 @@
 {
+  "lockfileVersion": 1,
   "dependencies": {
     "es6-shim": {
       "version": "0.33.3",
       "resolved": "https://registry.npmjs.org/es6-shim/-/es6-shim-0.33.3.tgz",
-      "from": "es6-shim@0.33.3"
+      "integrity": "sha512-8z9UB7byIAL4G7KILEA2s/9KZ90mucNCJXVjR+xckk2uB0ojYXygPltU7A9/WKfCux1DxM0wBvG6mtznibta5A=="
     }
   }
 }

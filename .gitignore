@@ -2,6 +2,7 @@
 *.swp
 .DS_Store
 .svgs
+node_modules
 dictionary.txt
 graphics.txt
 stroke_caps
